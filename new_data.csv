@@ -1,0 +1,11 @@
+﻿gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,TotalCharges,InternetService_Fiber,InternetService_DSL,InternetService_No,Month-to-month,1-Year,2-Year
+0,1,1,0,45,1,1,0,0,0,1,1,1,1840.75,0,1,0,0,0,1
+1,0,0,1,2,1,0,1,0,1,1,0,1,151.65,0,0,1,1,0,0
+1,1,0,0,68,1,0,0,0,0,0,0,0,1686.15,1,0,0,1,0,0
+1,0,0,1,57,0,0,0,0,0,0,1,1,5464.65,0,1,0,0,1,0
+0,0,0,1,8,1,0,0,0,0,0,0,0,729.95,0,0,1,1,0,0
+1,1,1,0,45,1,1,0,0,1,1,1,1,1840.75,1,0,0,0,0,1
+1,0,0,1,2,1,0,1,0,1,1,0,1,151.65,0,0,1,0,0,1
+0,1,0,1,68,1,0,1,0,0,0,0,0,1686.15,1,0,0,0,1,0
+1,1,1,1,57,0,1,0,0,1,0,1,1,5464.65,0,0,1,1,0,0
+1,1,1,0,8,1,0,0,0,0,1,0,0,729.95,0,1,0,1,0,0
